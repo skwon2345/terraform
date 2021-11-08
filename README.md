@@ -87,7 +87,7 @@ $ brew install gpg
 ```
 
 ```shell
-$ gpg --full-gneerate-key
+$ gpg --full-generate-key
 ```
 You will see the selection below, after execute the command above.
 ```shell
